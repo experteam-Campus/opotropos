@@ -4,6 +4,7 @@
 
 
 var coll = document.getElementsByClassName("collapsible");
+console.log(coll)
 var i;
 
 for (i = 0; i < coll.length; i++) {
